@@ -1,0 +1,3 @@
+{"student_id": 1, "student_name": "Ibrahim", "student_marks": 75}
+{"student_id": 2, "student_name": "nasir", "student_marks": 35}
+{"student_id": 3, "student_name": "nashid", "student_marks": 10}
